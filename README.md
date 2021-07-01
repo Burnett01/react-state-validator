@@ -1,7 +1,7 @@
 
 # react-state-validator
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm version](https://badge.fury.io/js/%40burnett01%2Freact-state-validator.svg)](https://badge.fury.io/js/%40burnett01%2Freact-state-validator)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm version](https://badge.fury.io/js/%40burnett01%2Freact-state-validator.svg)](https://badge.fury.io/js/%40burnett01%2Freact-state-validator) [![CodeQL](https://github.com/Burnett01/react-state-validator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Burnett01/react-state-validator/actions/workflows/codeql-analysis.yml)
 
 A state props validator that supports custom rules.
 
