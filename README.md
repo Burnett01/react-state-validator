@@ -11,6 +11,7 @@ Perfectly blends in with [reactstrap](https://reactstrap.github.io/)'s form comp
 
 # Table of contents
 * [API](#api)
+* [Available validators](#available-validators)
 * [Setup / Install](#setup--install)
 * [Example](#example-app)
 * [Contributing](#contributing)
@@ -76,6 +77,21 @@ Returns an object of whether the state is valid.
   invalid: false, 
   valid: true
 }
+```
+
+---
+
+## Available validators
+
+```
+len <Number>           | example:  len: 10
+minLen <Number>        | example:  minLen: 5
+maxLen <Number>        | example:  maxLen: 10
+min <Number>           | example:  min: 5
+max <Number>           | example:  max: 10
+regex <RegExp>         | example:  /^\d{4}$/
+has <Array>            | example:  ['option1', 'option2']
+notIf <Array <Object>> | example:  notIf: [{ field: 'otherField', value: 'Steven' }],
 ```
 
 ---
