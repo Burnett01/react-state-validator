@@ -1,0 +1,37 @@
+{
+  "name": "@burnett01/react-state-validator",
+  "version": "1.0.0",
+  "description": "A state props validator.",
+  "keywords": [
+    "react",
+    "state",
+    "validator",
+    "validation",
+    "reactstrap",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "Steven Agyekum",
+    "email": "agyekum@posteo.de",
+    "url": "https://github.com/Burnett01"
+  },
+  "maintainers": [
+    {
+      "name": "Steven Agyekum",
+      "email": "agyekum@posteo.de",
+      "url": "https://github.com/Burnett01"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/Burnett01/react-state-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Burnett01/react-state-validator/issues"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
