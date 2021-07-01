@@ -256,9 +256,9 @@ export default App;
 
 Result:
 
-<img src="./github/screen1.png" />
+<img src="./.github/screen1.png" />
 
-<img src="./github/screen2.png" />
+<img src="./.github/screen2.png" />
 
 ---
 
