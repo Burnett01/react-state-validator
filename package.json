@@ -1,6 +1,6 @@
 {
   "name": "@burnett01/react-state-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A state props validator.",
   "keywords": [
     "react",
